@@ -1,12 +1,10 @@
-# Seja bem vindo(a) a Turma 2001!
+# Seja bem vindo(a) ao repositório do app Estudiant!
 
-Esse é a organização da turma 2001 da escola EEEFM Dom Pedro II (Belém; Pará)
-Aqui você irá encontrar todos os projetos de programação relacionados a esta turma, como o website (front end apenas)
-e os assuntos.
+Esse app é utilizado para gerir e organizar sua vida estudantil.
 
 # Desenvolvedores
 Os desenvolvedores deste repositório atualmente são:
- - [Dayvid (Criador da organização)](https://github.com/D4yvid)
+ - [Dayvid](https://github.com/D4yvid)
 
 # Criadores de conteúdo
 Os criadores de conteúdo para os websites, como as pesquisas dos assuntos, atualmente são:
@@ -14,6 +12,5 @@ Os criadores de conteúdo para os websites, como as pesquisas dos assuntos, atua
 
 # Quero ajudar
 Deseja ajudar? Se sim, entre em contato com o dono da organização (Dayvid) por email:
- - [kkd4yv1d@gmail.com](mailto://kkd4yv1d@gmail.com)
+ - [d4yvid.albuquerque@gmail.com](mailto://d4yvid.albuquerque@gmail.com)
 
-Para ajudar, você precisa ser da escola, por enquanto.
