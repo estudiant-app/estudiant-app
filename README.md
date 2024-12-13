@@ -12,5 +12,5 @@ Os criadores de conteúdo para os websites, como as pesquisas dos assuntos, atua
 
 # Quero ajudar
 Deseja ajudar? Se sim, entre em contato com o dono da organização (Dayvid) por email:
- - [d4yvid.albuquerque@gmail.com](mailto://d4yvid.albuquerque@gmail.com)
+ - [d4yvid.albuquerque@gmail.com](mailto:d4yvid.albuquerque@gmail.com)
 
